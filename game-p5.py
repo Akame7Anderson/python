@@ -8,7 +8,7 @@ y = 100
 pos_x = 526
 pos_y = 1200
 pos_y_a = 800
-pos_y_c = 2000
+pos_y_c = 2000 
 velocidade = 25
 velocidade_outros = 12
 
